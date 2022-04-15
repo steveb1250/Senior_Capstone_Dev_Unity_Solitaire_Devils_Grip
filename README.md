@@ -1,2 +1,2 @@
 # Senior_Capstone_Dev_Unity_Solitaire_Devils_Grip
-This is a repository for my senior capstone. It contains a 2D solitaire game build using Unity. Disclaimer: Not all content is original, I do not own the rights to any content and all links to original content source will be provided. Furthermore, no monetary profits of any kind will occur using this build, it is only being created for educational purposes 
+This is a repository for my senior capstone. It contains a 2D solitaire game build using Unity. Disclaimer: Not all content is original, I do not own the rights to some of the content and all links to original content source will be provided. Furthermore, no monetary profits of any kind will occur using this build, it is only being created for educational purposes 
